@@ -7,6 +7,7 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "html5-qrcode": "^2.3.8",
+    "quagga": "^0.12.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",
@@ -53,5 +54,5 @@
   "bugs": {
     "url": "https://github.com/Gutelinha/Equipe-3-PDSI-Doacao-de-Alimentos/issues"
   },
-  "homepage": "https://github.com/Gutelinha/Equipe-3-PDSI-Doacao-de-Alimentos#readme"
+  "homepage": "/scan"
 }
